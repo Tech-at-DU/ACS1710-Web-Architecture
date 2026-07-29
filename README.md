@@ -1,7 +1,5 @@
 # ACS 1710 Web Architecture
 
-This syllabus is a living document! Check the [GitHub repo](https://github.com/Tech-at-DU/ACS-1710-Web-Architecture) for the latest version.
-
 ## Course Description
 
 This course is designed to introduce students to the Flask web framework. Students will learn language independent patterns that are repeated across many common servers. The course will cover topics including the request-response cycle, server-side templating, APIs, databases, & unit testing, to help students to build the skills necessary to create custom web sites.
